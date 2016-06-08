@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Решение квадратного уравнения</title>
+    <title>TaskManager</title>
     <script type="text/javascript" src="./script/equation.js">
     </script>
     <link rel="stylesheet" href="./style/equation.css"/>
